@@ -22,6 +22,8 @@ wget https://github.com/stripe/stripe-cli/releases/download/v1.19.4/stripe_1.19.
 tar -xvzf stripe_1.19.4_linux_arm64.tar.gz
 ```
 
+# Then LOGIN to Stripe.  
+
 Then Login to the Stripe (Optionally, if you don’t want to use a browser, use the --interactive flag to authenticate with an existing API secret key or restricted key. This can be helpful when authenticating to the CLI without a browser, such as in a CI/CD pipeline.)  You can find more about --interactive if you want to build this by CI/CD use this doc: https://docs.stripe.com/stripe-cli#login-account
 
 ```
