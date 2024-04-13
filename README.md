@@ -1,7 +1,9 @@
 # Create a virtual env
 Use a virtual environment if you don't want to mess up your existing env.
+
 ```console
 python3 -m venv myenv
+
 source myenv/bin/activate
 ```
 
@@ -16,6 +18,7 @@ arch
 Download the .tar.gz - from github:  github.com/stribe/stripe-cli/releases/tag/v1.19.4
 ```
 wget https://github.com/stripe/stripe-cli/releases/download/v1.19.4/stripe_1.19.4_linux_arm64.tar.gz
+
 tar -xvzf stripe_1.19.4_linux_arm64.tar.gz
 ```
 
