@@ -6,5 +6,6 @@ python3 -m venv myenv
 source myenv/bin/activate
 ```
 
-Then.
+Then install the Stripe CLI.  Information can be found here:
+https://docs.stripe.com/stripe-cli#install
 
