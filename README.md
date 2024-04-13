@@ -7,7 +7,7 @@ python3 -m venv myenv
 source myenv/bin/activate
 ```
 
-#Then install the Stripe CLI.  
+# Then install the Stripe CLI.  
 Information can be found here: https://docs.stripe.com/stripe-cli#install.  If on your Linux host we will download the .tar.gz.  But before we download the gz you should determine if you are running arm (arm) or intel (x86_64).  
 
 ARM: If your system reports aarch64 when running the arch command, it indicates that you're using an ARMv8-A architecture, which is commonly referred to as ARM64 or ARMv8. This architecture is an evolution of the ARM architecture and is prevalent in modern ARM-based systems, including many smartphones, tablets, servers, and IoT devices.
